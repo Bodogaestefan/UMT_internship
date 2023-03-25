@@ -1,0 +1,4 @@
+﻿  UMT_test.cpp
+C:\chestii\Facultate\Internship\UMTSoftware\UMT_test\UMT_test\UMT_test.cpp(71,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\chestii\Facultate\Internship\UMTSoftware\UMT_test\UMT_test\UMT_test.cpp(76,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  UMT_test.vcxproj -> C:\chestii\Facultate\Internship\UMTSoftware\UMT_test\x64\Debug\UMT_test.exe
